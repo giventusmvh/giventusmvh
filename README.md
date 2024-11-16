@@ -6,10 +6,6 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 
 - 🚀 **Web Developer** | **iOS Developer**
 - 💻 I love crafting **clean, scalable, and efficient code**.
-- 🔭 Currently working with:
-  - **Web**: Laravel, HTML, CSS, JavaScript, React
-  - **Mobile**: React Native, Swift, SwiftUI, UIKit
-  - **Backend**: PHP
 
 ## 🛠️ Tech Stack
 
