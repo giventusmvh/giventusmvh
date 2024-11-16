@@ -9,31 +9,48 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/UIKit-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="UIKit"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</div>
+
 
 ## 💡 What I'm Up To
 
 - 🌱 Constantly learning and exploring new technologies.
 - 🔨 Building innovative solutions for web and mobile platforms.
 
-## 📫 Connect With Me
 
-- 🌐 [Your Portfolio or Website](https://giventusmarco.vercel.app/)
-- 📧 [Your Email](mailto:giventusmrco@gmail.com)
-- 💼 [Your LinkedIn](https://linkedin.com/in/giventus)
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://giventusmrco.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:giventusmrco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/giventus" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
 
 ## 🏆 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giventusmvh&layout=compact&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giventusmvh&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
