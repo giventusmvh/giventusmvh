@@ -44,10 +44,10 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
   </a>
 </div>
 
----
-
 <!--
 ## 🏆 GitHub Stats
+
+---
 
 <div align="center">
   
