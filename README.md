@@ -11,13 +11,19 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
   - **Mobile**: React Native, Swift, SwiftUI, UIKit
   - **Backend**: PHP
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: PHP, Laravel
-- **Mobile Development**: Swift, SwiftUI, UIKit, React Native
-- **Tools & Platforms**: Git, Xcode, VS Code
-- **Languages**: JavaScript, PHP, Swift
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 ## 💡 What I'm Up To
 
@@ -34,9 +40,6 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giventusmvh&layout=compact&theme=radical)
 
 ---
-
-✨ Feel free to check out my repositories and collaborate on exciting projects. Let's build something amazing together!
-
 
 <!--
 **giventusmvh/giventusmvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
