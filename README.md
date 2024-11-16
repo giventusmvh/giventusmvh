@@ -26,14 +26,11 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 
 ## 📫 Connect With Me
 
-- 🌐 [Your Portfolio or Website](#)
-- 📧 [Your Email](mailto:your-email@example.com)
-- 🐦 [Your Twitter](https://twitter.com/yourprofile)
-- 💼 [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Your Portfolio or Website](https://giventusmarco.vercel.app/)
+- 📧 [Your Email](mailto:giventusmrco@gmail.com)
+- 💼 [Your LinkedIn](https://linkedin.com/in/giventus)
 
 ## 🏆 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giventusmvh&layout=compact&theme=radical)
 
 ---
@@ -43,7 +40,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 
 <!--
 **giventusmvh/giventusmvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
