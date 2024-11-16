@@ -33,8 +33,8 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 
 ## 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giventusmvh&layout=compact&theme=radical)
 
 ---
 
