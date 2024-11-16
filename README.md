@@ -36,13 +36,13 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://giventusmarco.vercel.app" target="_blank">
+  <a href="https://giventusmarco.vercel.app" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:giventusmrco@gmail.com" target="_blank">
+  <a href="mailto:giventusmrco@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/giventus" target="_blank">
+  <a href="https://linkedin.com/in/giventus" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
