@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giventusmvh&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 **giventusmvh/giventusmvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical)
 Here are some ideas to get you started:
-
+<img src="https://github-readme-stats.vercel.app/api?username=giventusmvh&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
