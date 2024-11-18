@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in web and iOS dev
 
 ## 🌟 About Me
 
-- 🚀 **Web Developer** | **iOS Developer**
+- 🚀 **iOS Developer** | **Web Developer**
 - 💻 I love crafting **clean, scalable, and efficient code**.
 
 ## 🛠️ Tech Stack
